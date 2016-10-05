@@ -1,0 +1,704 @@
+.toprow {
+	margin: 8rem 0px 0px 3.5rem;
+		background: url("images/IMAG0561.png") no-repeat left;
+	
+    background-size: 240px 200px;
+	height: 200px;
+}
+.nav {
+	text-transform: none; 
+	padding-top: 26px; 
+	font-family: "EB Garamond", serif; 
+	font-size: 1.6rem; 
+	float: left;
+	
+	margin-left: 240px
+	
+}
+
+.themeButton
+{
+	float: right;
+	margin-top: -76px;
+	margin-right: 4px;
+	
+	color: rgb(181, 181, 181);
+	border: 0px solid rgb(51, 51, 51);
+}
+
+.themeButton:hover {
+	outline: 0px; 
+	transition:0.7s; 
+	color: rgb(255, 255, 255); 
+	background-color: rgb(217, 217, 217);
+	
+	color: rgb(81, 81, 81);
+	border: 0px solid rgb(51, 51, 51);
+}
+
+.nav a {
+	margin: 0px 10px; color: rgb(102, 102, 102);
+}
+.logo {
+	font-family: EB Garamond",serif;
+	font-weight: 400;
+	font-size: 4rem;  
+	color: black;
+	no-repeat; 
+	width: 340px;  
+	margin-left: 185px;
+}
+.headline {
+	background: url("images/bg-white.png") no-repeat left top; 
+	padding: 12rem 0px 4rem 1.5rem; 
+	color: rgb(22, 21, 21); 
+	line-height: 38px; 
+	font-size: 2.4rem;
+}
+.about {
+	padding-left: 1.5rem; font-size: 1.6rem;
+}
+.work {
+	padding-left: 1.5rem; font-size: 1.6rem;
+}
+.workdetail {
+	text-align: center; padding-left: 1.5rem;
+}
+.wdpadding {
+	margin: 3rem 0px 0px;
+}
+.sansserif {
+	color: rgb(255, 255, 255); letter-spacing: 0.1rem; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 400;
+}
+.footerlogo {
+	background: url("images/logo-small.png") no-repeat left; 
+	height: 48px; 
+	float: left;
+}
+.madeinny {
+	display: none;
+}
+.copyright {
+	padding: 1.7rem 0px 0px 4rem;
+}
+.quote {
+	margin-top:0px;
+	padding-left: 10px;
+	margin-left: 10px;
+    border-left-style: solid;
+	border-width:1px;
+	border-color:rgb(206, 206, 206);
+}
+.rescont {
+	line-height: 32px; padding-left: 1.5rem; font-size: 1.8rem;
+}
+.contactpad {
+	padding-left: 1.5rem; margin-top: 10rem; margin-left: 0px;
+}
+.email {
+	padding-left: 1.5em; margin-top: 2.7rem;
+}
+.email2 {
+	padding-left: 1.5rem; font-size: 1.8rem; margin-top: 0.4rem; margin-left: 0px;
+}
+.tel {
+	padding-left: 1.5em; margin-top: 3rem;
+}
+.tel2 {
+	padding-left: 1.5rem; font-size: 1.8rem; margin-top: 0.1rem; margin-left: 0px;
+}
+.social {
+	padding-left: 1.5em; margin-top: 3rem;
+}
+.linkedin {
+	background: url("images/linkedin.png") no-repeat left; 
+	padding-left: 3rem; 
+	font-size: 1.8rem; 
+	margin-top: 0.8rem; 
+	margin-left: 1.5rem;
+}
+.github {
+	background: url("images/git.png") no-repeat left;  
+	padding-left: 3rem; 
+	font-size: 1.8rem; 
+	margin-top: 0.9rem;  
+	margin-left: 1.5rem;
+}
+
+.location {
+	background: url("images/location_icon.png") no-repeat left; 
+	padding-left: 3rem; 
+	font-size: 1.8rem; 
+	margin-top: 0.9rem;
+	white-space: nowrap;
+	margin-left: 1.5rem;
+}
+
+.footer {
+	color: rgb(78, 78, 78); padding-bottom: 4rem; padding-left: 1.5rem; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 1.1rem; margin-top: 10rem;
+}
+.button {
+	margin-left: 1.5rem;
+}
+.padright {
+	padding-right: 0px;
+}
+.padleft {
+	padding-left: 0px;
+}
+.padright2 {
+	padding-right: 20px;
+}
+hr {
+	border-width: 1px 0px 0px; 
+	margin-top: 7rem; 
+	margin-bottom: 5rem; 
+	margin-left: 1.5rem; 
+	border-top-color: 
+	rgb(216, 216, 216); border-top-style: solid;
+}
+.container {
+	margin: 0px; padding: 0px 20px; width: 100%; position: relative; max-width: 880px; box-sizing: border-box;
+}
+.column {
+	width: 100%; float: left; box-sizing: border-box;
+}
+.columns {
+	width: 100%; float: left; box-sizing: border-box;
+}
+@media all and (min-width:400px)
+{
+.container {
+	padding: 0px; width: 85%;
+}
+}
+@media all and (min-width:550px)
+{
+.toprow {
+	margin: 8rem 0px 0px 3.5rem;
+		background: url("images/IMAG0561.png") no-repeat left;
+	
+    background-size: 240px 200px;
+	height: 200px;
+}
+.nav {
+	font-size: 1.8rem;
+}
+.headline {
+	padding: 11rem 0px 4rem 7.5rem; 
+	line-height: 44px; 
+	font-size: 2.6rem;
+}
+.about {
+	line-height: 32px; padding-left: 7.5rem; font-size: 1.8rem;
+}
+.work {
+	line-height: 32px; padding-left: 7.5rem; font-size: 1.8rem;
+}
+.rescont {
+	line-height: 32px; padding-left: 7.5rem; font-size: 1.8rem;
+}
+.workdetail {
+	text-align: left; padding-top: 6rem; padding-left: 7.5rem; font-size: 1.6rem;
+}
+.wdpadding {
+	margin: 0px;
+}
+.madeinny {
+	background: url("images/made-in-ny.png") no-repeat right; height: 48px; text-align: right; float: right; display: inherit;
+}
+.footer {
+	padding-left: 7.5rem; margin-top: 20rem;
+}
+.button {
+	margin-left: 7.5rem;
+}
+.contactpad {
+	padding-left: 0px; margin-top: 2rem; margin-left: 0px;
+}
+.margeRight10 {
+	margin-left:10px;
+}
+
+.email {
+	color: rgb(25, 25, 25);
+	padding-left: 0px; margin-top: 2.7rem;
+}
+.email2 {
+	padding-left: 0px;
+}
+.tel {
+	color: rgb(25, 25, 25);
+	padding-left: 0px;
+}
+.tel2 {
+	padding-left: 0px;
+}
+.social {
+
+	color: rgb(25, 25, 25);
+	padding-left: 0px; margin-top: 10.1rem;
+}
+.linkedin {
+	margin-left: 0px;
+}
+.github {
+	margin-left: 0px;
+}
+.location {
+	margin-left: 0px;
+}
+.twitter {
+	margin-left: 0px;
+}
+hr {
+	margin-left: 7.5rem;
+}
+.padright {
+	padding-right: 1em;
+}
+.padleft {
+	padding-left: 1em;
+}
+.padright2 {
+	padding-right: 2em;
+}
+.container {
+	width: 80%;
+}
+.column {
+	margin-left: 4%;
+}
+.columns {
+	margin-left: 4%;
+}
+:first-child.column {
+	margin-left: 0px;
+}
+:first-child.columns {
+	margin-left: 0px;
+}
+.one.column {
+	width: 4.66%;
+}
+.one.columns {
+	width: 4.66%;
+}
+.two.columns {
+	width: 13.33%;
+}
+.three.columns {
+	width: 22%;
+}
+.four.columns {
+	width: 30.66%;
+}
+.five.columns {
+	width: 39.33%;
+}
+.six.columns {
+	width: 48%;
+}
+.seven.columns {
+	width: 56.66%;
+}
+.eight.columns {
+	width: 65.33%;
+}
+.nine.columns {
+	width: 74%;
+}
+.ten.columns {
+	width: 82.66%;
+}
+.eleven.columns {
+	width: 91.33%;
+}
+.twelve.columns {
+	width: 100%; margin-left: 0px;
+}
+.one-third.column {
+	width: 30.66%;
+}
+.two-thirds.column {
+	width: 65.33%;
+}
+.one-half.column {
+	width: 48%;
+}
+.offset-by-one.column {
+	margin-left: 8.66%;
+}
+.offset-by-one.columns {
+	margin-left: 8.66%;
+}
+.offset-by-two.column {
+	margin-left: 17.33%;
+}
+.offset-by-two.columns {
+	margin-left: 17.33%;
+}
+.offset-by-three.column {
+	margin-left: 26%;
+}
+.offset-by-three.columns {
+	margin-left: 26%;
+}
+.offset-by-four.column {
+	margin-left: 34.66%;
+}
+.offset-by-four.columns {
+	margin-left: 34.66%;
+}
+.offset-by-five.column {
+	margin-left: 43.33%;
+}
+.offset-by-five.columns {
+	margin-left: 43.33%;
+}
+.offset-by-six.column {
+	margin-left: 52%;
+}
+.offset-by-six.columns {
+	margin-left: 52%;
+}
+.offset-by-seven.column {
+	margin-left: 60.66%;
+}
+.offset-by-seven.columns {
+	margin-left: 60.66%;
+}
+.offset-by-eight.column {
+	margin-left: 69.33%;
+}
+.offset-by-eight.columns {
+	margin-left: 69.33%;
+}
+.offset-by-nine.column {
+	margin-left: 78%;
+}
+.offset-by-nine.columns {
+	margin-left: 78%;
+}
+.offset-by-ten.column {
+	margin-left: 86.66%;
+}
+.offset-by-ten.columns {
+	margin-left: 86.66%;
+}
+.offset-by-eleven.column {
+	margin-left: 95.33%;
+}
+.offset-by-eleven.columns {
+	margin-left: 95.33%;
+}
+.offset-by-one-third.column {
+	margin-left: 34.66%;
+}
+.offset-by-one-third.columns {
+	margin-left: 34.66%;
+}
+.offset-by-two-thirds.column {
+	margin-left: 69.33%;
+}
+.offset-by-two-thirds.columns {
+	margin-left: 69.33%;
+}
+.offset-by-one-half.column {
+	margin-left: 52%;
+}
+.offset-by-one-half.columns {
+	margin-left: 52%;
+}
+}
+html {
+	font-size: 62.5%;
+}
+body {
+	color: rgb(102, 102, 102); line-height: 1.6; font-family: "EB Garamond", serif; font-size: 1.5em; font-weight: 400; background-color: rgb(255, 255, 255);
+}
+@media not all, all and (min-resolution:192dpi)
+{
+.logo {
+	background: url("images/nik-papic-logo-retina.png") no-repeat 0% 0% / 180px 47px;
+}
+.footerlogo {
+	background: url("images/logo-small-retina.png") no-repeat left / 27px 15px;
+}
+.madeinny {
+	background: url("images/made-in-ny-retina.png") no-repeat right / 47px 47px;
+}
+.twitter {
+	background: url("images/twitter-retina.png") no-repeat left / 22px 22px;
+}
+.linkedin {
+	background: url("images/linkedin.png") no-repeat left / 20px 20px;
+}
+}
+h1 {
+	font-weight: 200; margin-top: 2rem; margin-bottom: 2rem;
+}
+h2 {
+	font-weight: 200; margin-top: 2rem; margin-bottom: 2rem;
+}
+h3 {
+	font-weight: 200; margin-top: 2rem; margin-bottom: 2rem;
+}
+h4 {
+	font-weight: 200; margin-top: 2rem; margin-bottom: 2rem;
+}
+h5 {
+	font-weight: 200; margin-top: 2rem; margin-bottom: 2rem;
+}
+h6 {
+	font-weight: 200; margin-top: 2rem; margin-bottom: 2rem;
+}
+h1 {
+	line-height: 1.2; font-size: 4rem;
+}
+h2 {
+	line-height: 1.25; font-size: 3.6rem;
+}
+h3 {
+	color: rgb(25, 25, 25); font-size: 3rem; margin-left: 1.5rem;
+}
+h4 {
+	line-height: 1.35; font-size: 2.4rem;
+}
+h5 {
+	margin: 0.7rem 0px; color: rgb(25, 25, 25); font-size: 2rem;
+}
+h6 {
+	line-height: 1.6; font-size: 1.5rem;
+}
+@media all and (min-width:550px)
+{
+h1 {
+	font-size: 5rem;
+}
+h2 {
+	font-size: 4.2rem;
+}
+h3 {
+	font-size: 3.6rem; margin-left: 7.5rem;
+}
+h4 {
+	font-size: 3rem;
+}
+h5 {
+	margin: 1.5rem 0px 1rem; font-size: 2.4rem;
+}
+h6 {
+	font-size: 1.5rem;
+}
+}
+p {
+	margin-top: 0px;
+}
+a {
+	color: rgb(102, 102, 102); text-decoration: none;
+}
+a:hover {
+	transition:0.3s; color: rgb(0, 0, 0);
+}
+.aIntro {
+	color: rgb(101, 101, 101);
+	text-decoration: none;
+}
+.aIntro:hover {
+	color: #AAA; 
+	transition:0.3s; 
+}
+.button {
+	padding: 5px 30px; 
+	border: 1px solid rgb(51, 51, 51); 
+	border-image: none; 
+	height: 48px; 
+	text-align: center; 
+	color: rgb(25, 25, 25); 
+	text-transform: uppercase; 
+	line-height: 38px; 
+	letter-spacing: 0.1rem; 
+	font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+	font-size: 11px; 
+	font-weight: 400; 
+	text-decoration: none; 
+	display: inline-block; 
+	white-space: nowrap; 
+	box-sizing: border-box; 
+	background-color: transparent;
+}
+button {
+	padding: 5px 30px; 
+	border: 1px solid rgb(51, 51, 51); 
+	border-image: none; 
+	height: 48px; 
+	text-align: center; 
+	color: rgb(255, 255, 255); 
+	text-transform: uppercase; 
+	line-height: 38px; 
+	letter-spacing: 0.1rem; 
+	font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+	font-size: 11px; 
+	font-weight: 400; 
+	text-decoration: none; 
+	display: inline-block; 
+	white-space: nowrap; 
+	box-sizing: border-box; 
+	background-color: transparent;
+}
+input[type='submit'] {
+	padding: 5px 30px; border: 1px solid rgb(51, 51, 51); border-image: none; height: 48px; text-align: center; color: rgb(255, 255, 255); text-transform: uppercase; line-height: 38px; letter-spacing: 0.1rem; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 400; text-decoration: none; display: inline-block; white-space: nowrap; box-sizing: border-box; background-color: transparent;
+}
+input[type='reset'] {
+	padding: 5px 30px; border: 1px solid rgb(51, 51, 51); border-image: none; height: 48px; text-align: center; color: rgb(255, 255, 255); text-transform: uppercase; line-height: 38px; letter-spacing: 0.1rem; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 400; text-decoration: none; display: inline-block; white-space: nowrap; box-sizing: border-box; background-color: transparent;
+}
+input[type='button'] {
+	padding: 5px 30px; border: 1px solid rgb(51, 51, 51); border-image: none; height: 48px; text-align: center; color: rgb(255, 255, 255); text-transform: uppercase; line-height: 38px; letter-spacing: 0.1rem; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 400; text-decoration: none; display: inline-block; white-space: nowrap; box-sizing: border-box; background-color: transparent;
+}
+.button:hover {
+	border-color: rgb(34, 34, 34); outline: 0px; transition:0.7s; color: rgb(255, 255, 255); background-color: rgb(17, 17, 17);
+}
+button:hover {
+	border-color: rgb(34, 34, 34); 
+	outline: 0px; 
+	transition:0.7s; 
+	color: rgb(255, 255, 255); 
+	background-color: rgb(17, 17, 17);
+}
+input[type='submit']:hover {
+	border-color: rgb(34, 34, 34); outline: 0px; transition:0.7s; color: rgb(255, 255, 255); background-color: rgb(17, 17, 17);
+}
+input[type='reset']:hover {
+	border-color: rgb(34, 34, 34); outline: 0px; transition:0.7s; color: rgb(255, 255, 255); background-color: rgb(17, 17, 17);
+}
+input[type='button']:hover {
+	border-color: rgb(34, 34, 34); outline: 0px; transition:0.7s; color: rgb(255, 255, 255); background-color: rgb(17, 17, 17);
+}
+.button:focus {
+	border-color: rgb(34, 34, 34); outline: 0px; transition:0.7s; color: rgb(255, 255, 255); background-color: rgb(17, 17, 17);
+}
+button:focus {
+	border-color: rgb(34, 34, 34); outline: 0px; transition:0.7s; color: rgb(255, 255, 255); background-color: rgb(17, 17, 17);
+}
+input[type='submit']:focus {
+	border-color: rgb(34, 34, 34); outline: 0px; transition:0.7s; color: rgb(255, 255, 255); background-color: rgb(17, 17, 17);
+}
+input[type='reset']:focus {
+	border-color: rgb(34, 34, 34); outline: 0px; transition:0.7s; color: rgb(255, 255, 255); background-color: rgb(17, 17, 17);
+}
+input[type='button']:focus {
+	border-color: rgb(34, 34, 34); outline: 0px; transition:0.7s; color: rgb(255, 255, 255); background-color: rgb(17, 17, 17);
+}
+.button.button-primary {
+	border-color: rgb(51, 195, 240); color: rgb(255, 255, 255); background-color: rgb(51, 195, 240);
+}
+button.button-primary {
+	border-color: rgb(51, 195, 240); color: rgb(255, 255, 255); background-color: rgb(51, 195, 240);
+}
+input[type='submit'].button-primary {
+	border-color: rgb(51, 195, 240); color: rgb(255, 255, 255); background-color: rgb(51, 195, 240);
+}
+input[type='reset'].button-primary {
+	border-color: rgb(51, 195, 240); color: rgb(255, 255, 255); background-color: rgb(51, 195, 240);
+}
+input[type='button'].button-primary {
+	border-color: rgb(51, 195, 240); color: rgb(255, 255, 255); background-color: rgb(51, 195, 240);
+}
+.button.button-primary:hover {
+	border-color: rgb(30, 174, 219); color: rgb(255, 255, 255); background-color: rgb(30, 174, 219);
+}
+button.button-primary:hover {
+	border-color: rgb(30, 174, 219); color: rgb(255, 255, 255); background-color: rgb(30, 174, 219);
+}
+input[type='submit'].button-primary:hover {
+	border-color: rgb(30, 174, 219); color: rgb(255, 255, 255); background-color: rgb(30, 174, 219);
+}
+input[type='reset'].button-primary:hover {
+	border-color: rgb(30, 174, 219); color: rgb(255, 255, 255); background-color: rgb(30, 174, 219);
+}
+input[type='button'].button-primary:hover {
+	border-color: rgb(30, 174, 219); color: rgb(255, 255, 255); background-color: rgb(30, 174, 219);
+}
+.button.button-primary:focus {
+	border-color: rgb(30, 174, 219); color: rgb(255, 255, 255); background-color: rgb(30, 174, 219);
+}
+button.button-primary:focus {
+	border-color: rgb(30, 174, 219); color: rgb(255, 255, 255); background-color: rgb(30, 174, 219);
+}
+input[type='submit'].button-primary:focus {
+	border-color: rgb(30, 174, 219); color: rgb(255, 255, 255); background-color: rgb(30, 174, 219);
+}
+input[type='reset'].button-primary:focus {
+	border-color: rgb(30, 174, 219); color: rgb(255, 255, 255); background-color: rgb(30, 174, 219);
+}
+input[type='button'].button-primary:focus {
+	border-color: rgb(30, 174, 219); color: rgb(255, 255, 255); background-color: rgb(30, 174, 219);
+}
+button {
+	margin-bottom: 1rem;
+}
+.button {
+	margin-bottom: 1rem;
+}
+input {
+	margin-bottom: 1.5rem;
+}
+textarea {
+	margin-bottom: 1.5rem;
+}
+select {
+	margin-bottom: 1.5rem;
+}
+fieldset {
+	margin-bottom: 1.5rem;
+}
+pre {
+	margin-bottom: 2.5rem;
+}
+blockquote {
+	margin-bottom: 2.5rem;
+}
+dl {
+	color: rgb(5,5,5);
+	margin-bottom: 0.0rem;
+}
+figure {
+	margin-bottom: 2.5rem;
+}
+table {
+	margin-bottom: 2.5rem;
+}
+p {
+	margin-bottom: 2.5rem;
+}
+ul {
+	margin-bottom: 2.5rem;
+}
+ol {
+	margin-bottom: 2.5rem;
+}
+form {
+	margin-bottom: 2.5rem;
+}
+.u-full-width {
+	width: 100%; box-sizing: border-box;
+}
+.u-max-full-width {
+	max-width: 955px; box-sizing: border-box;
+}
+.u-pull-right {
+	float: right;
+}
+.u-pull-left {
+	float: left;
+}
+.container::after {
+	clear: both; display: table; content: "";
+}
+.row::after {
+	clear: both; display: table; content: "";
+}
+.u-cf {
+	clear: both; display: table; content: "";
+}
