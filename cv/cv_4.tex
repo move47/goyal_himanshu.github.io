@@ -1,0 +1,240 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Professional CV
+% LaTeX Template
+% Version 2.0 (8/5/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Trey Hunner (http://www.treyhunner.com/)
+%
+% Important note:
+% This template requires the resume.cls file to be in the same directory as the
+% .tex file. The resume.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
+\usepackage{url,enumitem, xcolor}
+
+\name{Peter Rindal} % Your name
+\address{1445 NW Vista Pl. \\ Corvallis, OR 97330} % Your address
+\address{\url{web.engr.OregonState.edu/~rindalp}} % Your secondary addess (optional)
+\address{(509)~$\cdot$~520~$\cdot$~8701 \\ rindalp@OregonState.edu} % Your phone number and email
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+{\bf Ph.D. in Computer Science} \hfill {\em January 2015 --- Est. June 2019} \\ 
+Oregon State University, Corvallis\smallskip \\
+Overall GPA: 3.9\\ 
+
+{\bf B.S. in Computer Science} \hfill {\em September 2010 --- June 2014} \\ 
+Oregon State University, Corvallis\smallskip \\
+Overall GPA: 3.65\\ 
+
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+%	Research Interests
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Research Interests}
+	
+My primary interest is the development of efficient methods for computing on encrypted data. Most notably has been the development of a highly optimized protocol for performing general secure computation. I have also worked on Private Set Intersection for both malicious \& semi-honest adversaries, and several projects combining machine learning, differential privacy and secure computation.
+	
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Employment}
+
+{\bf Oregon State University} \hfill {January 2015 --- present}\\
+{\emph{Graduate Research Assistant} \hfill {Corvallis, OR}}
+
+{\bf Visa Research} \hfill {June 2017 --- September 2017}\\
+{\emph{Security Research Intern} \hfill {Palo Alto, CA}}
+
+{\bf Microsoft Research} \hfill {June 2016 --- September 2016}\\
+{\emph{Security Research Intern} \hfill {Redmond, WA}}
+
+{\bf Microsoft Research} \hfill {January 2016 --- March 2016}\\
+{\emph{Security Research Intern} \hfill {Redmond, WA}}
+
+{\bf Digimarc} \hfill {June 2014 --- December 2014}\\
+{\emph{Software Developer Intern} \hfill {Portland, OR}}
+
+{\bf Boeing Company} \hfill {March 2013 --- September 2013}\\
+{\emph{Software Developer Intern} \hfill {Portland, OR}}
+
+%\begin{rSubsection}{Visa Research}{June 2017 - September 2017}{Security Research Intern}{Palo Alto, CA}
+%	\item Developed efficient protocols for training machine learning models on encrypted data with security against semi-honest and malicious adversaries.
+%	\item Proposed a new definitions and constructions for distributed CPA, CCA and Authenticated Encryption where the key is securely split amongst several parties.
+%\end{rSubsection}
+
+%------------------------------------------------
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	Publications
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Publications}
+\hfill {\scriptsize \textcolor{gray}{\emph{Note: the standard convention in this discipline is to list authors alphabetically.}}}
+
+Peer-reviewed conference publications:
+\begin{enumerate}[label=C\arabic*]
+	
+	\item Peter Rindal and Mike Rosulek. \emph{Faster Malicious 2-party Secure Computation with Online/Offline Dual Execution.} In \emph{USENIX Security Symposium 2016.}
+	
+	\item Gizem Cetin, Hao Chen, Kim Laine, Kristin Lauter, Peter Rindal and Yuhou Xia. \emph{Private Queries on Encrypted Genomic Data.} In \emph{BMC Medical Genomics:  iDASH Privacy and Security Workshop 2016.}
+		
+	\item Peter Rindal and Mike Rosulek. \emph{Improved Private Set Intersection against Malicious Adversaries.} In \emph{EUROCRYPT: International Cryptology Conference 2017.}
+	
+	\item Hao Chen, Kim Laine and Peter Rindal. \emph{Fast Private Set Intersection from Homomorphic Encryption.} In \emph{CCS: ACM Conference on Computer and Communications Security 2017.}
+	
+	\item Peter Rindal and Mike Rosulek. \emph{Malicious-Secure Private Set Intersection via Dual Execution.} In \emph{CCS: ACM Conference on Computer and Communications Security 2017.}
+\end{enumerate}
+
+\bigskip 
+
+Informal publications:
+\begin{enumerate}[label=I\arabic*]
+	
+	\item Ran Gilad-Bachrach, Kim Laine, Kristin Lauter, Peter Rindal and Mike Rosulek. \emph{Secure Data Exchange: A Marketplace in the Cloud.} In \emph{IACR ePrint 2016.}
+		
+	\item Peter Rindal and Roberto Trifiletti. \emph{SplitCommit: Implementing and Analyzing Homomorphic UC Commitments.} In \emph{IACR ePrint 2017.}
+	
+	\item Melissa Chase, Ran Gilad-Bachrach, Kim Laine, Kristin Lauter and Peter Rindal. \emph{Private Collaborative Neural Network Learning.} In \emph{IACR ePrint 2017.}
+\end{enumerate}
+ 
+
+\end{rSection}
+
+
+
+%----------------------------------------------------------------------------------------
+%	Presentations
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Presentations}
+	
+	Conference and workshop presentations:
+	\begin{enumerate}[label=P\arabic*]
+		
+		\item \emph{Faster Malicious 2-party Secure Computation with Online/Offline Dual Execution.} Usenix Security 2016, Austin Texas, USA, August 2016.
+		
+		\item \emph{Improved Private Set Intersection against Malicious Adversaries.} 
+		\begin{itemize}
+			\item Eurocrypt, Paris, France, April 2017.
+			\item Theory and Practice of Secure Multiparty Computation, Bristol UK, April 2017.
+		\end{itemize}
+	\end{enumerate}
+	
+	\bigskip
+	
+	Other invited talks:	
+	\begin{enumerate}[label=T\arabic*]
+		
+		\item \emph{A Survey of Oblivious RAM Methods and Optimizations.} Intel seminar, Hillsboro OR, USA, March 2015.
+		
+	\end{enumerate}
+	
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+%	Software Projects
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Software Projects}
+	
+	
+	\begin{enumerate}[label=S\arabic*]
+		
+		\item Peter Rindal. \emph{libOTe: A fast, portable, and easy to use Oblivious Transfer Library.} 
+		
+		\item Peter Rindal. \emph{Ivory-Runtime: A generic Secure Computation API for garbled circuits, SPDZ, etc. } 
+		
+		\item Peter Rindal and Ni Ni Triue. \emph{libPSI: A library for malicious and semi-honest Private Set Intersection (PSI).}
+		
+		\item Peter Rindal and Roberto Trifiletti. \emph{SplitCommit: A portable C++ implementation of the [FJNT16] XOR-homomorphic commitment scheme.}
+		
+		\item Peter Rindal. \emph{Batch Dual Execution: Malicious secure online/offline MPC implementation.} 
+	\end{enumerate}
+	
+\end{rSection}
+
+
+
+%----------------------------------------------------------------------------------------
+%	Service
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Service}
+	
+	External reviewer:
+	\begin{enumerate}[label=E\arabic*]
+		
+		\item \emph{15th Theory of Cryptography Conference (TCC 2017).}  Baltimore, MD, USA on November, 2017.
+		
+		\item \emph{2nd IEEE European Symposium on Security and Privacy (EuroS\&P 2017).} Paris, France on April, 2017.
+		
+		\item \emph{19th International Symposium on Stabilization, Safety, and Security of Distributed Systems (SSS 2017).} Boston, Massachusetts, USA on November, 2017.
+		
+	\end{enumerate}
+	
+\end{rSection}
+
+
+
+%----------------------------------------------------------------------------------------
+%	Service
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{References}
+	
+	\begin{enumerate}[label=R\arabic*]
+		
+		\item Mike Rosulek, \emph{Principle Ph.D. Advisor.} rosulekm@eecs.oregonstate.edu
+		
+		\item Payman Mohassel,  \emph{Microsoft Research Mentor.} pmohasse@visa.com
+		
+		\item Melissa Chase, \emph{Microsoft Research Mentor.} melissac@microsoft.com
+		
+		
+	\end{enumerate}
+	
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+%	EXAMPLE SECTION
+%----------------------------------------------------------------------------------------
+
+%\begin{rSection}{Section Name}
+
+%Section content\ldots
+
+%\end{rSection}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
