@@ -38,9 +38,15 @@
 
 \begin{rSection}{Education}
 
-{\bf Ph.D. in Computer Science} \hfill {\em January 2015 --- Est. June 2019} \\ 
+{\bf Ph.D. in Computer Science} \hfill {\em January 2015 --- Est. Sep. 2018} \\ 
 Oregon State University, Corvallis\smallskip \\
-Overall GPA: 3.9\\ 
+Overall GPA: 3.8\\ 
+
+
+{\bf M.S. in Computer Science} \hfill {\em January 2015 --- Sep. 2017} \\ 
+Oregon State University, Corvallis\smallskip \\
+Overall GPA: 3.8\\ 
+
 
 {\bf B.S. in Computer Science} \hfill {\em September 2010 --- June 2014} \\ 
 Oregon State University, Corvallis\smallskip \\
@@ -55,7 +61,7 @@ Overall GPA: 3.65\\
 
 \begin{rSection}{Research Interests}
 	
-My primary interest is the development of efficient methods for computing on encrypted data. Most notably has been the development of a highly optimized protocol for performing general secure computation. I have also worked on Private Set Intersection for both malicious \& semi-honest adversaries, and several projects combining machine learning, differential privacy and secure computation.
+My primary interest is the development of efficient methods for computing on encrypted data. Most notably has been the development of highly optimized protocols for performing  Private Set Intersection for both malicious \& semi-honest adversaries. I have also worked on multi-party authenticated encryption, and several projects combining machine learning, differential privacy and secure computation.
 	
 \end{rSection}
 
@@ -100,7 +106,7 @@ My primary interest is the development of efficient methods for computing on enc
 \hfill {\scriptsize \textcolor{gray}{\emph{Note: the standard convention in this discipline is to list authors alphabetically.}}}
 
 Peer-reviewed conference publications:
-\begin{enumerate}[label=C\arabic*]
+\begin{enumerate}[label=C\arabic* --]
 	
 	\item Peter Rindal and Mike Rosulek. \emph{Faster Malicious 2-party Secure Computation with Online/Offline Dual Execution.} In \emph{USENIX Security Symposium 2016.}
 	
@@ -115,8 +121,26 @@ Peer-reviewed conference publications:
 
 \bigskip 
 
+Pending conference publications:
+\begin{enumerate}[label=*C\arabic* --]
+	
+	
+	\item Daniel Demmler, Peter Rindal, Mike Rosulek and Ni Trieu. \emph{PIR-PSI: Scaling Private Contact Discovery.} TBD in \emph{PETS: Privacy Enhancing Technologies Symposium 2018.}
+	
+	\item Payman Mohassel and Peter Rindal. \emph{$ABY^3$: A Mixed Protocol Framework for Machine Learning.} TBD in \emph{CCS: ACM Conference on Computer and Communications Security 2018.}
+	
+	\item Shashank Agrawal, Payman Mohassel, Pratyay Mukherjee and Peter Rindal. \emph{Threshold Authenticated Encryption}. TBD in \emph{CCS: ACM Conference on Computer and Communications Security 2018.}
+
+	\item Payman Mohassel, Peter Rindal and Mike Rosulek. \emph{Multi-Party Composable Private Database and Set Operations.} TBD in \emph{USENIX Security Symposium 2018.}
+
+	\item Adam Groce, Peter Rindal and Mike Rosulek. \emph{Cheaper Private Set Intersection  via Differentially Private Leakage.}  TBD in \emph{PETS: Privacy Enhancing Technologies Symposium 2019.}
+	
+	\item Hao Chen, Kim Laine and Peter Rindal. \emph{Labed-PSI: Improved Unbalanced Private Set Intersection with Fully Homomorphic Encryption.} TBD in \emph{CCS: ACM Conference on Computer and Communications Security 2018.}
+\end{enumerate}
+
+\bigskip 
 Informal publications:
-\begin{enumerate}[label=I\arabic*]
+\begin{enumerate}[label=I\arabic* --]
 	
 	\item Ran Gilad-Bachrach, Kim Laine, Kristin Lauter, Peter Rindal and Mike Rosulek. \emph{Secure Data Exchange: A Marketplace in the Cloud.} In \emph{IACR ePrint 2016.}
 		
@@ -137,24 +161,31 @@ Informal publications:
 \begin{rSection}{Presentations}
 	
 	Conference and workshop presentations:
-	\begin{enumerate}[label=P\arabic*]
+	\begin{enumerate}[label=P\arabic* --]
 		
 		\item \emph{Faster Malicious 2-party Secure Computation with Online/Offline Dual Execution.} Usenix Security 2016, Austin Texas, USA, August 2016.
 		
 		\item \emph{Improved Private Set Intersection against Malicious Adversaries.} 
 		\begin{itemize}
-			\item Eurocrypt, Paris, France, April 2017.
+			\item Eurocrypt, Paris France, April 2017.
 			\item Theory and Practice of Secure Multiparty Computation, Bristol UK, April 2017.
 		\end{itemize}
+	
+		\item  \emph{Malicious-Secure Private Set Intersection via Dual Execution.} CCS 2018, Huston Texas, USA, October 2017.
+		
+		\item \emph{Fast Private Set Intersection from Fully Homomorphic Encryption.} Theory and Practice of Secure Multiparty Computation, Aarhus Denmark, May 2018.
 	\end{enumerate}
 	
 	\bigskip
 	
 	Other invited talks:	
-	\begin{enumerate}[label=T\arabic*]
+	\begin{enumerate}[label=T\arabic* --]
 		
 		\item \emph{A Survey of Oblivious RAM Methods and Optimizations.} Intel seminar, Hillsboro OR, USA, March 2015.
 		
+		\item \emph{Improved Private Set Intersection.} Google, New York NY, USA, December 2017.
+		
+		\item  \emph{Fast Private Set Intersection from Homomorphic Encryption.} MIT, Boston Massachusetts, December 2017.
 	\end{enumerate}
 	
 \end{rSection}
@@ -167,17 +198,46 @@ Informal publications:
 \begin{rSection}{Software Projects}
 	
 	
-	\begin{enumerate}[label=S\arabic*]
+	\begin{enumerate}[label=S\arabic* --]
 		
-		\item Peter Rindal. \emph{libOTe: A fast, portable, and easy to use Oblivious Transfer Library.} 
+		\item Hao Chen, Kim Laine and Peter Rindal. \emph{Asymmetric Private Set Intersection} (Microsoft).
 		
-		\item Peter Rindal. \emph{Ivory-Runtime: A generic Secure Computation API for garbled circuits, SPDZ, etc. } 
+		\item Peter Rindal. \emph{SMILY: Secure Multi-party Computation Library.} (Microsoft).
 		
-		\item Peter Rindal and Ni Ni Triue. \emph{libPSI: A library for malicious and semi-honest Private Set Intersection (PSI).}
+		\item  Peter Rindal. \emph{$ABY^3$: A Mixed Protocol Framework for Machine Learning.}  (Visa)
 		
-		\item Peter Rindal and Roberto Trifiletti. \emph{SplitCommit: A portable C++ implementation of the [FJNT16] XOR-homomorphic commitment scheme.}
 		
-		\item Peter Rindal. \emph{Batch Dual Execution: Malicious secure online/offline MPC implementation.} 
+		\item Peter Rindal. \emph{Threshold Authenticated Encryption.} (Visa)
+		
+		\item Peter Rindal. \emph{libOTe: A fast, portable, and easy to use Oblivious Transfer Library.}  (Open Source) \url{https://github.com/osu-crypto/libOTe}. Includes the protocols of:
+		\begin{itemize}
+			\item Semi-honest 1-out-of-2 OT [IKNP03]. 
+			\item Semi-honest 1-out-of-N OT [KKRT16].
+			\item Malicious 1-out-of-2 OT [KOS15].
+			\item Malicious 1-out-of-2 Delta-OT [KOS15],[BLNNOOSS15].
+			\item Malicious 1-out-of-N OT [OOS16].
+			\item Malicious approximate K-out-of-N OT [RR17].
+			\item Malicious 1-out-of-2 base OT [NP00].
+		\end{itemize}
+		\item Peter Rindal. \emph{Ivory-Runtime: A generic Secure Computation API for garbled circuits, SPDZ, etc.} (Open Source)  \url{https://github.com/ladnir/Ivory-Runtime}. Includes the protocols of:
+		\begin{itemize}
+			\item Semi-honest 2PC [Yao82],[ZRE14].
+			\item Semi-honest 3PC [FLNW16].
+		\end{itemize}
+		
+		\item Peter Rindal and Ni Ni Triue. \emph{libPSI: A library for malicious and semi-honest Private Set Intersection.} (Open Source) \url{https://github.com/osu-crypto/libPSI}. Includes the protocols of:
+		\begin{itemize}		
+		\item Semi-honest Bloom filter PSI [DCW10]. 
+		\item Semi-honest cuckoo hashing PSI [KKRT16]. 
+		\item Malicious Bloom filter PSI [RR17a]. 
+		\item Malicious public key crypto PSI [DKT10]. 
+		\item Malicious cuckoo hashing PSI [RR17b]. 
+		\item Semi-honest PIR [BGI16].		
+	\end{itemize}
+
+		\item Peter Rindal and Roberto Trifiletti. \emph{SplitCommit: A portable C++ implementation of the [FJNT16] XOR-homomorphic commitment scheme.} (Open Source) \url{https://github.com/AarhusCrypto/SplitCommit}
+		
+		\item Peter Rindal. \emph{Batch Dual Execution: Malicious secure online/offline MPC implementation.}  (Open Source) \url{https://github.com/osu-crypto/batchDualEx}
 	\end{enumerate}
 	
 \end{rSection}
@@ -191,13 +251,24 @@ Informal publications:
 \begin{rSection}{Service}
 	
 	External reviewer:
-	\begin{enumerate}[label=E\arabic*]
+	\begin{enumerate}[label=E\arabic* --]
 		
-		\item \emph{15th Theory of Cryptography Conference (TCC 2017).}  Baltimore, MD, USA on November, 2017.
+		\item \emph{15th Theory of Cryptography Conference (TCC 2017).}  Baltimore MD, USA on November, 2017.
 		
-		\item \emph{2nd IEEE European Symposium on Security and Privacy (EuroS\&P 2017).} Paris, France on April, 2017.
+		\item \emph{2nd IEEE European Symposium on Security and Privacy (EuroS\&P 2017).} Paris France on April 2017.
 		
 		\item \emph{19th International Symposium on Stabilization, Safety, and Security of Distributed Systems (SSS 2017).} Boston, Massachusetts, USA on November, 2017.
+		
+		\item \emph{ 18th International Conference on Cryptology in India (Indocrypt 2017)}. Chennai India on December 2017.
+		
+		\item \emph{39th IEEE Symposium on Security and Privacy (S\&P 2018)}. San Francisco California, USA on May 2018.
+		
+		\item \emph{21st edition of the International Conference on Practice and Theory of Public Key Cryptography (PKC 2018)}. Rio De Janeiro, Brazi on March 2018.
+		
+		
+		\item \emph{ 38th International Cryptology Conference (Crypto 2018).} Santa Barbara California, USA on August 2018.
+		
+		\item \emph{DBSec 2018 : 32nd IFIP WG 11.3 Conference on Data and Applications Security and Privacy}.  Bergamo, Italy on July 2018.
 		
 	\end{enumerate}
 	
@@ -211,11 +282,11 @@ Informal publications:
 
 \begin{rSection}{References}
 	
-	\begin{enumerate}[label=R\arabic*]
+	\begin{enumerate}[label=R\arabic* --]
 		
 		\item Mike Rosulek, \emph{Principle Ph.D. Advisor.} rosulekm@eecs.oregonstate.edu
 		
-		\item Payman Mohassel,  \emph{Visa Research Mentor.} pmohasse@visa.com
+		\item Kim Laine,  \emph{Microsoft Research Mentor.} kim.laine@microsoft.com
 		
 		\item Melissa Chase, \emph{Microsoft Research Mentor.} melissac@microsoft.com
 		
