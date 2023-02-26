@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.19)  31 MAR 2021 19:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.19)  28 MAR 2022 09:47
 entering extended mode
 **./cv_4.tex
 (cv_4.tex
@@ -207,39 +207,24 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 33.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 33.
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--44
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--49
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--54
-
- []
-
 [1
 
 {C:/Users/peter/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
-[3]
-Overfull \hbox (3.91673pt too wide) in paragraph at lines 239--240
+[3] [4]
+Overfull \hbox (3.91673pt too wide) in paragraph at lines 271--272
 []\OT1/cmr/m/n/10.95 Peter Rindal and Roberto Tri-filetti. \OT1/cmr/m/it/10.95 
 Split-Com-mit: A portable C++ im-ple-men-ta-tion of the [FJNT16]
  []
 
-[4] (cv_4.aux) ) 
+[5] (cv_4.aux) ) 
 Here is how much of TeX's memory you used:
- 3027 strings out of 481556
- 43676 string characters out of 2913869
+ 3028 strings out of 481556
+ 43694 string characters out of 2913869
  297580 words of memory out of 3000000
- 18273 multiletter control sequences out of 15000+200000
+ 18274 multiletter control sequences out of 15000+200000
  537198 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,37p,872b,366s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,5n,37p,872b,370s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\peter\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknap
 pen/ec/dpi600\tcrm1095.pk><C:/Users/peter/AppData/Local/Programs/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/peter/AppData/Local/Programs/M
@@ -252,9 +237,9 @@ msfonts/cm/cmsy10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX 2.9/fonts/t
 ype1/public/amsfonts/cm/cmti10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Users/peter/AppData/Local/Pr
 ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cv_4.pdf (4 pages, 139011 bytes).
+Output written on cv_4.pdf (5 pages, 142736 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
+ 59 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

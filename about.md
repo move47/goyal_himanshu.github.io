@@ -37,7 +37,7 @@ sidebar_link: true
                 <div id="contact">
                     <h3 class="contactpad">Contact</h3>
                     <div class="sansserif email">EMAIL</div>
-                    <div class="email2"><a href="mailto:rindalp@oregonstate.edu">PeterRindal@gmail.com</a></div>
+                    <div class="email2"><a href="mailto:PeterRindal@gmail.com">PeterRindal@gmail.com</a></div>
                     <div class="sansserif tel">TEL</div>
                     <div class="tel2">509.520.8701</div>
                 </div>
