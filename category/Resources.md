@@ -6,11 +6,7 @@ order: 4
 ---
 
 <!--- This is an HTML comment in Markdown -->
-![Image](../assets/resources/CandH_Teaching.jpg)
-## Security  
-- [Symmetric Key Crypto](https://www.youtube.com/channel/UCLlw-K3hvGx94l1POd0k2sw/playlists): One-hour Summary by Dan Boneh
-
-
+<!--- ![Image](../assets/resources/CandH_Teaching.jpg)-->
 ## Courses
 -  [CS 294-163: Decentralized Security: Theory and Systems
 Fall 2019](https://inst.eecs.berkeley.edu/~cs294-163/fa19/), Raluca Ada Popa, UC Berkeley
@@ -20,6 +16,7 @@ Fall 2019](https://inst.eecs.berkeley.edu/~cs294-163/fa19/), Raluca Ada Popa, UC
 - Differential privacy, Gautam kamath, Bilibili twitter handle
 - Cryptocurrency class, King's College London. [Link](https://blockchain.kcl.ac.uk/cryptocurrencyclass/)
 - David Wu's [Courses](https://www.cs.utexas.edu/~dwu4/teaching.html)
+
 ## Blogs
 - [A Few Thoughts on Cryptographic Engineering](http://blog.cryptographyengineering.com/), Blogs by Matthew D. Green, Johns Hopkins University
 - [Intro about Bitcoin](https://www.vpnmentor.com/blog/bitcoin-money-decentralization/), [How Pow works in Bitcoin](https://www.vpnmentor.com/blog/hash-puzzle-bitcoin/), Avishay Yanai, Barllan University
@@ -34,3 +31,4 @@ Fall 2019](https://inst.eecs.berkeley.edu/~cs294-163/fa19/), Raluca Ada Popa, UC
 - [Some Graduate Advices](http://web.engr.oregonstate.edu/~rosulekm/advising.html)
 - Mihir Bellare's [course](https://cseweb.ucsd.edu/~mihir/cse209b-Wi21/) on "Seeing the invisible" at UCSD. 
 - Debmalya Panigrahi's course on [Great Ideas in Computer Science](https://sites.google.com/view/duke-compsci-290-fall-2021/home?authuser=0) at Duke University.
+- [Symmetric Key Crypto](https://www.youtube.com/channel/UCLlw-K3hvGx94l1POd0k2sw/playlists): One-hour Summary by Dan Boneh
