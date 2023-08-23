@@ -3,10 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Peter Rindal
-tagline:          'Cryptographer'
+title:            Himanshu Goyal
+tagline:          'Research Development Software Engineer'
 description:      ''
-url:              'https://ladnir.github.io'
+url:              'https://move47.github.io'
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -38,4 +38,4 @@ sidebar_home_link:  true
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: peter_rindal_shortname
+    shortname: himanshu_goyal_shortname
