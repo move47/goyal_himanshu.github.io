@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Miscellaneous
-permalink: /crypto_resources/
+permalink: /miscellaneous/
 order: 5
 ---
 
