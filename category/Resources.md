@@ -1,8 +1,6 @@
 ---
 layout: category
 title: Crypto Resources
-permalink: /crypto_resources/
-order: 4
 ---
 
 <!--- This is an HTML comment in Markdown -->

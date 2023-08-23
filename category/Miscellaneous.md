@@ -1,7 +1,6 @@
 ---
 layout: category
 title: Miscellaneous
-permalink: /miscellaneous/
 order: 5
 ---
 
