@@ -10,7 +10,7 @@ Greetings, my name is Himanshu Goyal. I am currently pursuing a Master's degree 
 
 I have had the privilege of gaining diverse experience through internships in both industry and academia. Most recently, I held the position of Cryptographic Research Engineer Intern at [Galois Inc](https://galois.com). During the Fall of 2022, I collaborated with [Prof. Paul Pearce](https://faculty.cc.gatech.edu/~pearce/) and [Prof. Saman Zonouz](https://sites.google.com/site/samanzonouz4n6/saman-zonouz) to enhance our understanding of Industrial Control Systems (ICS) through the empirical application of internet scanning techniques. In 2021, I had the opportunity to work with [Arpita Patra](https://www.csa.iisc.ac.in/~arpita/) at the [Cryptography and Information Security lab](https://www.csa.iisc.ac.in/~cris/about.html) at IISc Bangalore. In the Summer of 2020, I interned with the Embedded Systems and Robotics group at TCS Research & Innovation, where I worked with [Chayan Sarkar](http://www.chayansarkar.com/) on the development of a customized language model for cognitive robotics applications. In the Summer of 2019, I focused on workload characterization in Multi-tier Cloud Infrastructure at [CNeRG - Complex Networks Research Lab](https://cnerg-iitkgp.github.io/), IIT Kharagpur, under the mentorship of [Sandip Chakraborty](http://cse.iitkgp.ac.in/~sandipc/).
 
-During my leisure time, I frequently engage with platforms such as Reddit and Twitter to stay abreast of the latest developments in my field of technical interest. I strongly advocate for following established experts in your respective fields to gain rapid insights into emerging trends. I have a penchant for gathering resources that could be beneficial for budding students, which can be found under the [Crypto Resources](../_pages/Crypto-Resources.md) and [Miscellaneous](../_pages/miscellaneous.md) sections. These resources encompass a wide range of levels, from basic to advanced. Additionally, I maintain a [blog](../_posts/) which is updated intermittently. 
+During my leisure time, I frequently engage with platforms such as Reddit and Twitter to stay abreast of the latest developments in my field of technical interest. I strongly advocate for following established experts in your respective fields to gain rapid insights into emerging trends. I have a penchant for gathering resources that could be beneficial for budding students, which can be found under the [Crypto Resources](./category/Resources.md) and [Miscellaneous](./category/Miscellaneous.md) sections. These resources encompass a wide range of levels, from basic to advanced. Additionally, I maintain a [blog](./category/Blog.md) which is updated intermittently. 
 
 During my undergraduate years, I actively participated in various social and academic activities that enriched my university experience. I was a proud member of the [E-Summit](http://www.e-summit-iitbbs.com/), where I not only participated but also organised numerous events promoting entrepreneurship. My involvement in these events allowed me to interact with a diverse group of individuals, fostering my interpersonal skills and expanding my network. 
 
@@ -37,21 +37,29 @@ I love being called with *__move47__*.
                 <div id="contact">
                     <h3 class="contactpad">Contact</h3>
                     <div class="sansserif email">EMAIL</div>
-                    <div class="email2"><a href="mailto:PeterRindal@gmail.com">PeterRindal@gmail.com</a></div>
+                    <div class="email2"><a href="mailto:hgoyal33@gatech.edu">hgoyal33@gatech.edu</a></div>
+                    <div class="email2"><a href="mailto:goyal.himanshu1799@gmail.com">goyal.himanshu1799@gmail.com</a></div>
                     <div class="sansserif tel">TEL</div>
-                    <div class="tel2">509.520.8701</div>
+                    <div class="tel2">470.949.2968</div>
                 </div>
             </div>
             <div class="two columns padleft">
                 <div class="sansserif social">OTHER</div>
                 <div class="linkedin">
-                    <a href="http://www.linkedin.com/in/peterrindal">/in/PeterRindal</a>
+                    <a href="https://www.linkedin.com/in/goyal--himanshu/">
+                        <img src="./assets/linkedin.png" alt="LinkedIn Icon">
+                        /in/Himanshu
+                    </a>
                 </div>
                 <div class="github">
-                    <a href="http://github.com/ladnir">/github/Ladnir</a>
+                    <a href="https://github.com/move47">
+                        <img src="./assets/github-sign.png" alt="LinkedIn Icon">
+                        /github/move47
+                    </a>
                 </div>
+                
                 <div class="location">
-                    <a href="https://www.google.com/maps/place/Visa+Research/@37.4262136,-122.1431343,15z/data=!4m2!3m1!1s0x0:0xfc7dc0aca48d2577?ved=2ahUKEwjN3JnR_pHfAhUkGDQIHYtKBPEQ_BIwCnoECAYQCA">/location/Visa Research</a>
+                    Atlanta, GA
                 </div>
             </div>
-        </div>
+</div>
