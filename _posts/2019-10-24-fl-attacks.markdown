@@ -1,12 +1,5 @@
 ---
 layout: post
-title:  "Federated Learning from adversarial view"
-date:   2019-10-24 11:20:55 +0530
-tags: federated learning
----
-
----
-layout: post
 title: "Federated Learning from adversarial view"
 excerpt_separator: <!--more-->
 categories:
@@ -15,6 +8,16 @@ tags:
   - ML
   - Security and Privacy
 ---
+
+<!--
+---
+layout: post
+title:  "Federated Learning from adversarial view"
+date:   2019-10-24 11:20:55 +0530
+tags: federated learning
+---
+-->
+
 
 ### Background and Rationale
 Mobile phones, wearable devices, voice assistants, and autonomous vehicles are just a few of the new

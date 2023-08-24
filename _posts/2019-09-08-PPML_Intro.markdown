@@ -1,9 +1,22 @@
 ---
 layout: post
+title: "Privacy Preserving Machine Learning"
+excerpt_separator: <!--more-->
+categories:
+  - Blog
+tags:
+  - ML
+  - Security and Privacy
+  - Cryptography
+---
+<!--
+---
+layout: post
 title:  "Privacy Preserving Machine Learning"
 date:   2019-09-08 09:20:55 +0530
 tags: machine learning
 ---
+-->
 ### Introduction
 _Arthur Samuel_, a pioneer in the field of computer gaming and artificial intelligence, described __machine learning__
 as a _field of study that gives computers the ability to learn without being explicitly programmed_. ML is being
