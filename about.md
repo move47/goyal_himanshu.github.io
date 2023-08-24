@@ -47,19 +47,15 @@ I love being called with *__move47__*.
                 <div class="sansserif social">OTHER</div>
                 <div class="linkedin">
                     <a href="https://www.linkedin.com/in/goyal--himanshu/">
-                        <img src="./assets/linkedin.png" alt="LinkedIn Icon">
-                        /in/Himanshu
+                        <img src="./assets/linkedin.png" alt="LinkedIn Icon" style="width:20px;height:20px;">
+                        <span style="vertical-align: middle;">//in/Himanshu</span>
                     </a>
                 </div>
                 <div class="github">
                     <a href="https://github.com/move47">
-                        <img src="./assets/github-sign.png" alt="LinkedIn Icon">
-                        /github/move47
+                        <img src="./assets/github-sign.png" alt="LinkedIn Icon" style="width:20px;height:20px;">
+                        <span style="vertical-align: middle;">/github/move47</span>
                     </a>
                 </div>
                 
-                <div class="location">
-                    Atlanta, GA
-                </div>
-            </div>
 </div>
