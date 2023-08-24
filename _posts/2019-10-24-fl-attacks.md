@@ -26,7 +26,7 @@ distributed networks generating a wealth of data each day, where each data sampl
 
 #### FL Applications
 <p align="center">
-<img src="../assets/Blog/FL/fl_introduction.png"/>
+<img src="/assets/Blog/FL/fl_introduction.png"/>
 </p>
 <p align="center"><i>Auto-suggestion application</i></p>
 <br/><br />
