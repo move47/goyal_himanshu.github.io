@@ -62,7 +62,7 @@ of owners adversely. In fact, with all of the data that is collected from indivi
 basis, data owners might not be aware of how the data collected from them is being used (or misused), and in
 many cases, not even aware that some data types are being collected.
 <p align="center">
-<img src="./assets/Blog/PPML/Cloud.jpg" />
+<img src="../assets/Blog/PPML/Cloud.jpg" />
 </p>
 <p align="center"><i>Figure 2: Most Machine learning today is done in the cloud</i></p>
 <br /><br />
@@ -72,7 +72,7 @@ About 2 years ago, Google researchers introduced a Skin disease classifier at th
 an application to take photos of skin, and run it to __CNN(Convolutional Neural Network)__ to intimate about
 your visit to a dermatologist. It was also observed that the accuracy of prediction was an expert level. When the user queries the application, they do not make any changes(e.g.  noise perturbation) to the input skin image. The service provided then takes it for further processing. 
 <p align="center">
-<img src="./assets/Blog/PPML/skin_cancer.png" />
+<img src="../assets/Blog/PPML/skin_cancer.png" />
 </p>
 <p align="center"><i>Figure 3: Skin Cancer Classifier</i></p>
 <br /><br />
@@ -116,7 +116,7 @@ model by utilizing the responses received from that ML model.
     data owner.
     Example: Fingerprint reconstruction, Mobile device touch gesture reconstruction.
 <p align="center">
-<img src="./assets/Blog/PPML/Attack.png" />
+<img src="../assets/Blog/PPML/Attack.png" />
 </p>
 <p align="center"><i>Figure 4: Threats with ML Models</i></p>
 <br /><br />
