@@ -50,7 +50,7 @@ TECHNOLOGIES__ are needed.
 major stories surface around data privacy, which makes it the most relevant year for privacy since the Snowden
 leaks in 2013. Data Privacy impacts our politics, security, businesses, relationships, health, and finances.
 <p align="center">
-<img src="./assets/Blog/PPML/google_attack_graph.png" />
+<img src="../assets/Blog/PPML/google_attack_graph.png" />
 </p>
 <p align="center"><i>Figure 1: Google Trends for “data privacy”, 2013 — 2019</i></p>
 <br /><br />
