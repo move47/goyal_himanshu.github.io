@@ -1,6 +1,7 @@
 ---
 layout: category
 title: Miscellaneous
+order: 6
 ---
 
 - [Website](https://t.co/7DtawV9oTN?amp=1) for quick reference on topics like Python, Pandas, Numpy, and others.

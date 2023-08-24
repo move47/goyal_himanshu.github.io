@@ -1,6 +1,7 @@
 ---
 layout: category
 title: Crypto Resources
+order: 5
 ---
 
 <!--- This is an HTML comment in Markdown -->
