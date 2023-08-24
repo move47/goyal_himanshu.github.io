@@ -31,7 +31,7 @@ distributed networks generating a wealth of data each day, where each data sampl
 <br/><br />
 <p align="center">
 <!-- https://move47.github.io/blog/2019/09/assets/Blog/PPML/google_attack_graph.png -->
-<img src="{ site.url }}/blog/2019/09/assets/Blog/FL/fl_medical.png"/>
+<img src="../assets/Blog/FL/fl_medical.png"/>
 </p>
 <p align="center"><i>Usage of federated learning for providing better healthcare by taking relevant data from various medical organisations, which in turn is difficult to achieve through centralised learning.</i></p>
 <br /><br />
