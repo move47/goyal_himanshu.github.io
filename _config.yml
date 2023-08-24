@@ -19,7 +19,7 @@ author:
   url:            https://twitter.com/fongandrewc
 remote_theme:     fongandrew/hydeout
 
-paginate:         5
+paginate:         8
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
