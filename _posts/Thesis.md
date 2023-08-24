@@ -11,19 +11,19 @@ tags:
   - Security and Privacy
 ---
 
-<ul>
-                     <li>
-                        <a href="/docs/Final_Thesis.pdf" target="_blank">A Step Towards
-                           Building Trustworthy
-                           Wireless Sensor Network</a> (<a href="/docs/Thesis_Synopsis.pdf" target="_blank">Synopsis</a>)
-                        <br>
-                        <div class="authors">Himanshu Goyal</div>
-                        <em>(under guidance of <a href="https://www.iitbbs.ac.in/profile-print.php?furl=sudipta">
-                                 Prof. Sudipta Saha</a>)</em><br>IIT Bhubaneswar <em>(2017-2022)</em>
-                        <br>
-                        <br>
-                     </li>
-                  </ul>
+
+                     
+<a href="/docs/Final_Thesis.pdf" target="_blank">A Step Towards
+    Building Trustworthy
+    Wireless Sensor Network</a> (<a href="/docs/Thesis_Synopsis.pdf" target="_blank">Synopsis</a>)
+<br>
+<div class="authors">Himanshu Goyal</div>
+<em>(under guidance of <a href="https://www.iitbbs.ac.in/profile-print.php?furl=sudipta">
+          Prof. Sudipta Saha</a>)</em><br>IIT Bhubaneswar <em>(2017-2022)</em>
+<br>
+<br>
+                     
+
 
 <!-- Hao Chen and Kim Laine and Peter Rindal ~ <a href="https://eprint.iacr.org/2017/299">eprint/2017/299</a> ~ <a href="https://acmccs.github.io/papers/">CCS'17</a>
 
