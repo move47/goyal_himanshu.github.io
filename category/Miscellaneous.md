@@ -4,6 +4,7 @@ title: Miscellaneous
 order: 6
 ---
 
+- Learn X in Y Minutes [CS Stuff](https://learnxinyminutes.com)
 - [Website](https://t.co/7DtawV9oTN?amp=1) for quick reference on topics like Python, Pandas, Numpy, and others.
 - A team at google discussing about the __Human side of AI__. It talks about fairness, bias, diversity, etc. [[Link](https://pair.withgoogle.com/explorables/)]
 - In 1956, Massachusetts Institute of Technology (MIT) _Prof Claude Shannon_ [one-page article](../assets/miscellaneous/Shannon_Claude_E_1956_The_Bandwagon.pdf) trying to curb the information theory hype.
