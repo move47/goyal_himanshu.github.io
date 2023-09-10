@@ -61,7 +61,6 @@ I love being called with <i><b>move47</b></i>. </p>
                 </div>
                 <div class="github" style="display: flex; align-items: left;">
                 <img src="./assets/github-sign.png" alt="LinkedIn Icon" style="width:20px;height:20px; margin-right: 10px;">
-                <img src="./assets/linkedin.png" alt="LinkedIn Icon" style="width:20px;height:20px; margin-right: 10px;">
                     <a href="https://github.com/move47">
                         /github/move47
                     </a>

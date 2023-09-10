@@ -35,4 +35,5 @@ devices and prioritize them for security measures.
 
 Acknowledgement: This work was done under the guidance of *Prof. Saman Zonouz*, and *Prof. Paul Pearce* at Georgia Tech.
 
-**Project Report**  [[pdf]](/docs/EMS_Project_Report.pdf)
+**Project Report**  [[pdf]](/docs/EMS_Project_Report.pdf) <br>
+**Project Presentation** [[ppt]](/docs/ICS-Project-Presentation.pdf)
