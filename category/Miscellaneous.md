@@ -12,3 +12,4 @@ order: 6
 - __Coping with Rejection in Academia__: A Three-Pronged Approach. A [talk](https://www.loom.com/share/89bfb10668d94595b265a156126474a5) by Aditya Parameswaran, UCB.
 - __[Git cheat sheet](../assets/miscellaneous/git-cheat-sheet.pdf)__.
 - __Setting SSH keys in Git(hub/lab)__ [Link](https://medium.com/@viviennediegoencarnacion/manage-github-and-gitlab-accounts-on-single-machine-with-ssh-keys-on-mac-43fda49b7c8d)
+- The [Friendship](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge) That Made Google Huge
